@@ -1,0 +1,3 @@
+C:/Users/roza0/CLionProjects/FluidSimCpp/cmake-build-debug/CMakeFiles/FluidSimCpp.dir
+C:/Users/roza0/CLionProjects/FluidSimCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/roza0/CLionProjects/FluidSimCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
